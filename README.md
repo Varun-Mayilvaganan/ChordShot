@@ -7,7 +7,7 @@ Chordshot is an innovative AI-powered application that merges image recognition 
 
 ## Features
 - **Image Recognition**: Detects objects, emotions, and scenes within an image using pre-trained deep learning models.
-- **Music Generation**: Uses AI-driven models (Magenta, MuseNet) to generate a music track that matches the visual content's mood.
+- **Music Generation**: Uses AI-driven models (Magenta) to generate a music track that matches the visual content's mood.
 - **Seamless Integration**: Automatically maps image features to musical properties such as tempo, scale, and instruments.
 - **User-Friendly Interface**: Allows users to upload images and download generated music with a single click.
 
