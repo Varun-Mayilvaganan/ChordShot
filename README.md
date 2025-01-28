@@ -12,10 +12,10 @@ Chordshot is an innovative AI-powered application that merges image recognition 
 - **User-Friendly Interface**: Allows users to upload images and download generated music with a single click.
 
 ## Tech Stack
-- **Image Recognition & Analysis**: TensorFlow, PyTorch (ResNet, YOLO, EfficientNet)
-- **Music Generation**: Magenta, MuseNet
+- **Image Recognition & Analysis**: TensorFlow, PyTorch (ResNet, YOLO, EfficientNet) - Image recognition, scene recognition.
+- **Music Generation**: Magenta by Google
 - **Backend**: FastAPI or Flask
-- **Frontend**: HTML, CSS, JavaScript (React.js or Vue.js)
-- **Storage & Deployment**: Amazon S3 / Google Cloud Storage, Heroku / DigitalOcean
+- **Frontend**: HTML, CSS, JavaScript
+- **Storage & Deployment**: Amazon S3, Heroku / DigitalOcean
 - **Version Control**: Git, GitHub
-- **Deployment & CI/CD**: Docker, GitHub Actions, AWS.
+- **Deployment & CI/CD**: Docker, AWS.
