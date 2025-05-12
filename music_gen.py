@@ -65,12 +65,21 @@ def build_dynamic_music_prompt(scene, colors, objects):
 
     # Style tag by scene
     scene_styles = {
-        "forest": "ambient acoustic",
-        "city": "urban electronic",
-        "beach": "tropical house",
-        "space": "ethereal synth",
-        "battlefield": "cinematic orchestral",
-        "rainy street": "lo-fi chillhop",
+        "bedroom" : "Soft piano, acoustic guitar, ambient sounds, light percussion",
+        "CALsuburb" : "Light guitar, piano, nature sounds (birds, breeze), subtle electronic pads",
+        "industrial" : "Percussive beats, industrial sounds, metallic sounds, synths",
+        "kitchen" : "Light percussion, subtle strings, ambient background sounds",
+        "livingroom" : "Acoustic guitar, piano, strings, light percussion",
+        "MITcoast" : "Acoustic guitar, ocean waves, wind, light piano, marimba",
+        "MITforest" : "The music should capture the serenity of the forest, with flute melodies and light acoustic guitar accompanying the natural sounds of birds and wind",
+        "MIThighway" : "Electronic synths, strong bass, rhythmic beats, distant car sounds",
+        "MITinsidecity" : "Urban beats, synths, electronic sounds, subtle piano",
+        "MITmountain" : "Acoustic guitar, soft percussion, wind sounds, strings",
+        "MITopencountry" : "Harmonica, acoustic guitar, light percussion, nature sounds",
+        "MITstreet" : "Urban beats, street sounds, synths, electronic percussion",
+        "MITtallbuilding" : "Electronic music, synth pads, ambient sounds",
+        "PARoffice" : "Light piano, strings, soft percussion, ambient office sounds",
+        "store" : "Light, catchy electronic beats, subtle percussion, ambient sounds of a busy shop",
     }
     style = scene_styles.get(scene.lower(), "experimental")
 
