@@ -9,7 +9,7 @@ This repository contains the complete implementation of the system described in 
 
 ## Project Motivation
 
-Music generation systems typically rely on textual prompts or symbolic inputs. However, images naturally convey rich emotional and contextual information that is difficult to express explicitly in text. ChordShot investigates whether visual cues—such as environment type, color tone, and objects—can be used as an alternative creative input for music generation.
+Music generation systems typically rely on textual prompts or symbolic inputs. However, images naturally convey rich emotional and contextual information that is difficult to express explicitly in text. ChordShot investigates whether visual cues such as environment type, color tone, and objects can be used as an alternative creative input for music generation.
 
 The goal of this project is not to replace human composition, but to study **cross-modal alignment between vision and sound**, and to understand how visual semantics can influence musical structure, mood, and instrumentation.
 
