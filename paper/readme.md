@@ -222,5 +222,3 @@ Potential extensions discussed include:
 * Longer and higher-fidelity compositions
 * Interactive user feedback mechanisms
 * Real-time audiovisual systems for games and installations
-
-Just tell me how you want to position it.
