@@ -19,7 +19,7 @@ The goal of this project is not to replace human composition, but to study **cro
 
 Given a single image, the system:
 
-1. **Classifies the scene** (e.g., indoor, urban, natural)
+1. **Classifies the scene** (e.g., indoor, urban, natural, outdoor scenes)
 2. **Extracts dominant colors** to infer emotional tone
 3. **Detects objects** present in the image
 4. **Maps visual features to musical attributes**
